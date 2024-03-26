@@ -55,6 +55,6 @@ This README outlines the comprehensive approach to designing and implementing an
 
 ## Task Tracking
 
-This task is tracked on Trello: [Link to Trello Card](https://trello.com/c/QZOrGKG6/7-readme)
+This task is tracked on Trello: [Link to Trello Card](https://trello.com/c/ZPr1OCso/7-readme)
 
 
